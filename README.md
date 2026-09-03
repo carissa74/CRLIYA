@@ -12,7 +12,7 @@ import './App.css';
 const portfolioData = {
   profile: {
     name: "Carissa",
-    fullName: "Salsa Carissa",
+    fullName: "CARISSA",
     title: "Personal Portfolio & Creative Profile",
     description: "Saya adalah seorang pelajar SMKN 42 Jakarta yang aktif dan berjiwa tangguh. Memiliki passion dalam desain kreatif dan pengembangan web.",
     image: "/api/placeholder/400/400",
